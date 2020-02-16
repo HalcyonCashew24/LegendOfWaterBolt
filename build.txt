@@ -1,0 +1,3 @@
+displayName = Legend of The Waterbolt
+author = HalcyonCashew24
+version = 0.1.0.1
